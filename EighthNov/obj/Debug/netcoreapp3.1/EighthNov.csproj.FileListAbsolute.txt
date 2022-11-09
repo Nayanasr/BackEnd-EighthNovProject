@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\EighthNov\EighthNov\bin\Debug\netcoreapp3.1\EighthNov.exe
+C:\Users\107012\source\repos\EighthNov\EighthNov\bin\Debug\netcoreapp3.1\EighthNov.deps.json
+C:\Users\107012\source\repos\EighthNov\EighthNov\bin\Debug\netcoreapp3.1\EighthNov.runtimeconfig.json
+C:\Users\107012\source\repos\EighthNov\EighthNov\bin\Debug\netcoreapp3.1\EighthNov.runtimeconfig.dev.json
+C:\Users\107012\source\repos\EighthNov\EighthNov\bin\Debug\netcoreapp3.1\EighthNov.dll
+C:\Users\107012\source\repos\EighthNov\EighthNov\bin\Debug\netcoreapp3.1\EighthNov.pdb
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.AssemblyInfo.cs
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.dll
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.pdb
+C:\Users\107012\source\repos\EighthNov\EighthNov\obj\Debug\netcoreapp3.1\EighthNov.genruntimeconfig.cache
